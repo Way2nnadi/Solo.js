@@ -1,18 +1,4 @@
 angular.module('myApp.factory',[])
-.factory('HTMLRecognition', function(){
-	var recognition = new webkitSpeechRecognition();
-	recognition.continuous = true;
-	recognition.interimResults = true;
-	recognition.onresult = function(event) {
-	//take whatever this event represents then push it
-	//into the Google API 
-  		console.log(event) 
-  		return event;
-	}
-	return{
-		recognition: recognition
-	}
-})
 .factory('GoogleSearch', function(){
 	var OnLoad = function(city, searchQuery, htmlElementId){
 		var searchControl = new google.search.searchControl();

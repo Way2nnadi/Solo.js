@@ -1,4 +1,4 @@
-# SOLO - Voice Search Engine #
+# SOLO - Personal Self-esteem booster #
 
 <!-- 
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
@@ -17,20 +17,20 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > A Noval implementation of a voice search engine - Solo
+  > A Noval implementation of a text to voice engine - Solo
 
 ## Sub-Heading ##
-  > For those who would rather use their voice to search instead of typing it out
-
+  > Are you feeling down and need a quick pick me up? Try Solo
 ## Summary ##
-  > How many times have you tried searching for something but you fingers ached from the previous hours of typing. Solo is here to help. By simply vocing what you want searched, solo will intelligently understand and retrieve it from the inter-Webs. You days of sore fingers are over, Solo is here to save the day!!!!
+  > How many times have you thought I would really like someone to tell me something good right now, but there is no one around. With Solo you can have that at the convenience of your palm. Just simply say "Solo boost Me" and Solo will intelligently respond. Solo learns over time and can sense changes in your mood, if she senses that you really need a boost she will automatically
+  respond with one of those pick me ups you love so much.
 
 ## Problem ##
-  > About 2% of all american are visually impaired. having the ability to voice what the want search would drastically help them navigate the internet efficiently.
+  > Some people need external validation to make them feel better. Solo is there to fill that void
 
 ## Solution ##
-  > A simple, intelligent engine that is able to translate spoken word to text, text that can then easily be searched online.
+  > A simple, intelligent engine that is able give you that extra boost
 
 ## How to Get Started ##
-  > simply download the app, configure Solo to your unique voice patterns. Then start flying through the internet with your voice
+  > simply download the app, and simply watch the wonder that is Solo.
 

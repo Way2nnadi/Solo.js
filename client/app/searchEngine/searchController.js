@@ -2,7 +2,7 @@ angular.module('myApp.search', ['myApp.factory'])
 .controller('SearchEngine', function($scope, GoogleSearch){
 	$scope.google= google;
 	$scope.googleLoad = $scope.google.load('search', 1);
-	$scope.city = '';
+	$scope.city = 'San Francisco, CA';
 	$scope.searchQuery = '';
 	$scope.elementId = '';
 	$scope.executeOnLoad = function(){
